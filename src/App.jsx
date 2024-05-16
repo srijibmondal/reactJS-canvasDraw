@@ -14,6 +14,8 @@ function App() {
         lazyRadius={0}
         backgroundColor="#222"
         brushColor="#aaa"
+        hideInterface="false"
+        style={{ cursor: 'url(pencil.cur), auto' }}
       />
     </>
   );
